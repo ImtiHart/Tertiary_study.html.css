@@ -1,0 +1,48 @@
+html{
+    background-color: blanchedalmond;
+    font-size: 35px;
+    text-align: center;
+}
+
+button{
+    font-weight: 200;
+    margin-bottom: 5px;
+    background-color:  #ffeecc ;
+    color: #4d3300;
+    margin-left: 2px;
+    transition: all 0.4s linear;
+}
+button:hover{
+    background-color: #bf8040;
+    color: white;
+}
+
+.Studies{
+    border: 5px solid #4d3300;
+    width: 500px;
+    display: flex;
+    margin-left: 470px;
+    justify-content: center;
+}
+
+.undergrad{
+    vertical-align: -1px;
+}
+h1{
+    background-color: #bf8040;
+}
+.heading{
+    background-color: #ffeecc;
+    border-bottom: 150px
+}
+.Choose{
+    background-color: rgb(240, 192, 120);
+    width: 500px;
+    margin-left: 470px;
+}
+h6{
+    font-size: 15px;
+    border: 2px solid #604309;
+    width: 1300px;
+    margin-left: 80px;
+}
